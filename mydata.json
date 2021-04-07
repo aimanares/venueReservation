@@ -1,47 +1,20 @@
 [
     {
-        "venue": "a",
-        "dateTime": "2021-04-07 08:00",
-        "name": "Hafiz",
-        "purpose": "Tafsir Class",
-        "phone": "13141314",
-        "email": "hapis@gmail.com",
-        "address": "Cheras"
+        "venue": "Malaysia",
+        "dateTime": "2021-05-05 08:00",
+        "name": "Sulaiman Ganteng",
+        "purpose": "English Class",
+        "phone": "1112223333",
+        "email": "sulaimanganteng@iium.com",
+        "address": "Mahallah Uthman"
     },
     {
-        "venue": "h",
-        "dateTime": "2021-04-07 08:00",
-        "name": "Kamal",
-        "purpose": "Meeting",
-        "phone": "12312311",
-        "email": "kamal@iium.com",
-        "address": "dengkil"
-    },
-    {
-        "venue": "x",
-        "dateTime": "2021-04-07 08:00",
-        "name": "sudin",
-        "purpose": "Gaming",
-        "phone": "414234242",
-        "email": "sudincomel@gmail.com",
-        "address": "Semenyih"
-    },
-    {
-        "venue": "a",
-        "dateTime": "2021-04-06 09:00",
-        "name": "maria",
-        "purpose": "SPM seminar",
-        "phone": "12435644",
-        "email": "maria@live.iium.edu.my",
-        "address": "kuala lumpur"
-    },
-    {
-        "venue": "g",
-        "dateTime": "2021-04-09 10:00",
-        "name": "Ahmad",
-        "purpose": "Reunion ",
-        "phone": "17236599",
-        "email": "ahmad@gmail.com",
-        "address": "gombak"
+        "venue": "France",
+        "dateTime": "2021-05-07 14:00",
+        "name": "Ahmad Albab",
+        "purpose": "Gaming Program Meeting",
+        "phone": "3334445555",
+        "email": "ahmad@iium.com",
+        "address": "Taman Perdana"
     }
 ]
