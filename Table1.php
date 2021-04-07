@@ -82,7 +82,6 @@
       <div class="button">
         <input type="submit" name="home" value="Reserve Venue">
       </div>
-      
     </form>
 
    </div>
