@@ -4,18 +4,28 @@
    
     <meta charset="utf-8">
     <title>Table of Conference</title>
-	<link rel="stylesheet" href="homecss.css">
+	
   </head>
-  <body>
+  <body background="4ef5ed23dd7614b990195ae96bc6e678.jpg">
     
 	
-	  <div class="container">
+	  
+	  <br>
+	  <br>
+	  <br>
+	  <br>
+	  <br>
+	  <br>
+	<table bgcolor="#33CCFF" align="center" ><tr><td><h3 >Table of Conference</h3></td></tr></table>
+	<br>
+	  <br>
+	  <br>
 	
-	<h3 >Table of Conference</h3>
 	
-	<table  border="1"> <tr><td>Number</td><td>Conference Name</td><td colspan="5"> Time duration</td></tr>
 	
-	<tr><td>1.</td><td>Argentina conference room</td><td>8 a.m - 11 a.m </td><td>11 a.m - 2 p.m </td><td>2 p.m - 5 p.m </td><td>5 p.m - 8 p.m </td>
+	<table  border="1" width=70% height=50% bgcolor="#33CCFF" align="center"> <tr><td>Number</td><td>Conference Name</td><td colspan="5"> Time duration</td></tr>
+	
+	<tr ><td>1.</td><td>Argentina conference room</td><td>8 a.m - 11 a.m </td><td>11 a.m - 2 p.m </td><td>2 p.m - 5 p.m </td><td>5 p.m - 8 p.m </td>
 	<td>8 p.m - 11 p.m </td>
 	</tr>
 	<tr><td>2.</td><td>Belgium conference room</td><td>8 a.m - 11 a.m </td><td>11 a.m - 2 p.m </td><td>2 p.m - 5 p.m </td><td>5 p.m - 8 p.m </td>
@@ -77,14 +87,19 @@
 	<tr><td>30.</td><td>Greece conference Room</td><td>8 a.m - 11 a.m </td><td>11 a.m - 2 p.m </td><td>2 p.m - 5 p.m </td><td>5 p.m - 8 p.m </td>
 	<td>8 p.m - 11 p.m </td></tr>
 	</table>
+	
+	<br>
+	  <br>
+	  <br>
 
-	<form action="homepage.php" method="POST">
+  
+   
+   <div align="center" >
+   <form action="homepage.php" method="POST">
       <div class="button">
         <input type="submit" name="home" value="Reserve Venue">
       </div>
-    </form>
-
-   </div>
+    </form></div>
     
     
   </body>
