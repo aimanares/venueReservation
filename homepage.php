@@ -26,7 +26,7 @@
       if(isset($_POST['submit'])){
         try
         {
-          //$formdata = array($venue, $dateTime, $name, $purpose, $phone, $email, $address);
+          
           $formdata = array(
             'venue'=> $_POST['venue'],
             'dateTime'=> $_POST['date'] . " " . $time = $_POST['time'],
@@ -44,7 +44,8 @@
           $arr_data = json_decode($jsondata, true);
           
           $sameVen = array_keys(array_column($arr_data, 'venue'), $venue);
-      
+          
+          //function for checking clashed venue
           if(sizeof($arr_data,0)==0 || sizeof($sameVen,0)==0){
               array_push($arr_data,$formdata);
               function_alert('RESERVATION SUCCESSFUL');
